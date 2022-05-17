@@ -1,0 +1,121 @@
+/* HOME NAV AND TITLE*/
+body {
+    background-color: #120e15;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .light-mode {
+    background-color: white;
+   
+
+  }
+  
+  .home-menu {
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    color: #b0aa8f;
+    padding: 10px;
+  }
+  
+  
+  
+  a:link {
+    text-decoration: none;
+    color: #efead2;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: #efead2;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #efead2;
+  }
+  
+  /* ABOUT */
+  
+  .about {
+    font-size: 22px;
+    color: #b4c3a3;
+    border-bottom: 1px solid #b4c3a3;
+  }
+  
+  .intro {
+    display: inline-block;
+    vertical-align: top;
+    color: #b0aa8f;
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  .bio {
+    display: inline-block;
+    vertical-align: top;
+    color: #b0aa8f;
+    font-size: 15px;
+  }
+  
+  /* SKILLS */
+  .skills {
+    font-size: 22px;
+    color: #b4c3a3;
+    border-bottom: 1px solid #b4c3a3;
+  }
+  
+  .topics {
+      padding: 20px 0 0 0;
+    display: inline-block;
+    vertical-align: top;
+    color: #b0aa8f;
+    font-size: 18px;
+  }
+  
+  .synopsis {
+    display: inline-block;
+    vertical-align: top;
+    color: #b0aa8f;
+    font-size: 15px;
+  }
+  
+  /* PROJECTS */
+  .projects {
+    font-size: 22px;
+    color: #b4c3a3;
+    border-bottom: 1px solid #b4c3a3;
+  }
+  
+  
+  img {
+    width: 300px;
+    height: 260px;
+    float: left;
+    display: table;
+    padding: 20px 29px 0 27px;
+  }
+  
+    
+  
+  /* CONTACT */
+  
+  .contact {
+    font-size: 22px;
+    color: #b4c3a3;
+    border-bottom: 1px solid #b4c3a3;
+  }
+  
+  i {
+    color: white;
+    padding: 20px 5px 5px 5px;
+    font-size: 1.5em;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    color: #b0aa8f;
+    bottom: 0%;
+    position: fixed;
+  }
