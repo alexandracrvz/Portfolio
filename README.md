@@ -1,12 +1,14 @@
 # Portfolio
 
+## Project Links
+
 Portfolio Website: https://alexandracrvz.github.io/Portfolio/
 
 ## Project Description
 
 Disclaimer: This is Beta 1 and is subject to change as I gain more skills and experience in my career as a Software Developer. 
 
-I will build a personal portfolio. The portfolio will be a website showcasing myself, skills, projects, and contact information as a Software Engineer. Anyone visiting my portfolio website will be able to interact with my content and get familiar with who I am as well as the skills, and ideas I have to bring to the table as a Junior Developer.  
+I created a personal portfolio. The portfolio will be a website showcasing myself, skills, projects, and contact information as a Software Engineer. Anyone visiting my portfolio website will be able to interact with my content and get familiar with who I am as well as the skills, and ideas I have to bring to the table as a Junior Developer.  
 
 ## Light Mode Code Snippet
 
