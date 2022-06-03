@@ -34,7 +34,6 @@ Referenced: GA Project Overview/Wireframes
 Nav Bar: https://materializecss.com/navbar.html
 Icons: https://fontawesome.com
 Font: https://fonts.google.com
-Light/Dark Mode: https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
 
 
 
