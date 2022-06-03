@@ -1,5 +1,4 @@
 # Portfolio
-# Project Overview
 
 ## Project Description
 
